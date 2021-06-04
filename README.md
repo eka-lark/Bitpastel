@@ -1,4 +1,4 @@
-SOLUTION FOR 'xyz Project' (by using LAMP)
+SOLUTION FOR 'XYZ Project' (by using LAMP)
 ================================================
 
 /* Backend Developer -- PHP Internship */
